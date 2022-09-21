@@ -1,0 +1,53 @@
+body{
+    background-color: #3461eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button{
+    margin-top: 50px;
+}
+.digit{
+    font-size: 100px;
+    font-weight: bolder;
+}
+.text{
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+}
+.btn{
+    padding: 7px;
+    font-size: 20px;
+    margin: 0px 15px;
+    margin-bottom: 10px;
+    margin-left: 70px;
+}
+#start{
+    background-color: #FF9933;
+}
+#stop{
+    background-color: white;
+    color: #000080;
+}
+#restart{
+    background-color: #138808;
+    margin-right: 30px;
+}
+ #hour{
+    color: #FF9933;
+}
+#minute{
+    color: white;
+}
+#second{
+    color: #138808;
+}
+h1{
+    text-align: center;
+    color:white;
+}
+.container{
+    border: 2px solid black;
+}
+
